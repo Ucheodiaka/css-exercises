@@ -1,0 +1,19 @@
+.cooler {
+    background-color: rgb(251, 130, 255);
+    font-family: Verdana, DejaVu, sans-serif;
+}
+
+#tab {
+   color: blue;
+   font-size: 36px;
+}
+
+.pot {
+    font-size: 24px;
+}
+
+#spot {
+    background-color: rgb(142, 233, 126);
+    font-size: 24px;
+    font-weight: bold;
+}
